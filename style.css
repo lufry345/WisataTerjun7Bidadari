@@ -246,7 +246,7 @@ body {
 }
 
 #slide-4:target ~ .images {
-  margin-left: -200%;
+  margin-left: -300%;
 }
 
 .wrapper {
