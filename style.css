@@ -244,6 +244,11 @@ body {
 #slide-3:target ~ .images {
   margin-left: -200%;
 }
+
+#slide-3:target ~ .images {
+  margin-left: -200%;
+}
+
 .wrapper {
  width: 800px;
  margin: auto;
