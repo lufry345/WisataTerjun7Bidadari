@@ -100,8 +100,8 @@ body {
   content: "";
   display: block;
   position: absolute;
-  width: 50%;
-  height: 30%;
+  width: 50;
+  height: 30;
   bottom: 0;
   background: linear-gradient(
     0deg,
